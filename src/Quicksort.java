@@ -40,6 +40,10 @@ public class Quicksort {
         for (int i = 0; i < 2; i++) {
             if (array[i] <= mean && array[i] > pivot) {
                 pivot = array[i];
+                int = 227;
+                System.out.println("Pivot: " + pivot);
+                return pivot;
+                System.out.println("Servus Simon!!!!!!!!");
 
             }
         }
