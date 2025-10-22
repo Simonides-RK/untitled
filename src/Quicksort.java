@@ -4,7 +4,7 @@
 
 public class Quicksort {
 
-    static int[] werte = {1, 2, 3, 4, 5, 8, 3, 6, 10, 24, 12};
+    static int[] werte = {1, 2, 3, 5, 5, 8, 3, 34, 20, 991, 7;
 
 
     static int[] sortedArray = new int[werte.length];
