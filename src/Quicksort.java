@@ -44,6 +44,7 @@ public class Quicksort {
             }
         }
         System.out.println("Pivot: " + pivot);
+        System.out.println("test2");
         return pivot;
 
     }
