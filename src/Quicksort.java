@@ -15,7 +15,8 @@ public class Quicksort {
         System.out.println("Unsortiertes Array: " + java.util.Arrays.toString(werte));
 
         quicksort(werte);
-        System.out.println("test");
+        System.out.println("testtest");
+        System.out.println("hallo");
         System.out.println("Sortiertes Array: " + java.util.Arrays.toString(sortedArray));
 
 
