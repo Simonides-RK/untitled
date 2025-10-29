@@ -18,7 +18,7 @@ public class Quicksort {
         System.out.println("testtest");
         System.out.println("hallo");
         System.out.println("Sortiertes Array: " + java.util.Arrays.toString(sortedArray));
-
+        System.out.println("test");
 
         long end = System.nanoTime();
         long duration = (end - start);  //divide by 1000000 to get milliseconds.
